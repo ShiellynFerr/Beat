@@ -1,0 +1,29 @@
+header {
+    background-color: #129799;
+}
+
+nav ul {
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 80px;
+}
+
+li {
+   font-size: 20px;
+   cursor: pointer;
+   color: #Ffffff;
+}
+
+.titulo-central-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+    gap: 10px
+}
+
+.titulo-central-box h2 {
+   color: #fff;
+   font-size: 64px;
+}
