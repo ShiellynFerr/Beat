@@ -2,15 +2,15 @@ header {
     background-color: #129799;
 }
 
-nav ul {
+.header-nav {
 display: flex;
 justify-content: center;
 align-items: center;
 gap: 80px;
 }
 
-li {
-   font-size: 20px;
+.header-item{
+   font-size: 30px;
    cursor: pointer;
    color: #Ffffff;
 }
@@ -26,4 +26,8 @@ li {
 .titulo-central-box h2 {
    color: #fff;
    font-size: 64px;
+}
+
+.principal-titulo {
+    margin-top: 20px;
 }
